@@ -1,0 +1,8 @@
+{
+  "name": "Monument Identification System",
+  "description": "An advanced cultural preservation platform that processes landmarks, displaying a Monuments Database Catalogue, providing interactive Google Maps location access, and powered by Gemini Q&A for real-time historical inquiry answering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
