@@ -1,1 +1,1 @@
-Hello from feature branch
+Resolved: identify monuments from uploaded images; require peer review before release.
