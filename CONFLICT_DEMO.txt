@@ -1,0 +1,1 @@
+Feature side: identify monuments from uploaded images.
