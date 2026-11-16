@@ -1,1 +1,1 @@
-Feature side: identify monuments from uploaded images.
+Resolved: identify monuments from uploaded images; require peer review before release.
