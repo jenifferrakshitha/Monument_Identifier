@@ -1,6 +1,4 @@
-
-
-\# Git Branching Strategy
+## Main Branch - Maintained by Both Members\# Git Branching Strategy
 
 
 
@@ -20,7 +18,19 @@ Monument Identifier
 
 \## Main Branch
 
+<<<<<<< HEAD
 \## Main Branch - Maintained by Member 1
+=======
+\## Main Branch - Maintained by Member 2
+
+
+
+\## Feature Branches
+
+\- feature/project-details
+
+\- feature/setup-guide
+>>>>>>> origin/feature/setup-guide
 
 
 
@@ -53,6 +63,4 @@ Monument Identifier
 \- fix: bug fixes
 
 \- refactor: code improvements
-
-
 
