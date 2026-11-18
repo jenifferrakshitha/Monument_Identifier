@@ -1,66 +1,23 @@
-## Main Branch - Maintained by Both Members\# Git Branching Strategy
+# Git Branching Strategy
 
-
-
-\## Project
-
+## Project
 Monument Identifier
 
+## Team Members
+- Member 1: Project Documentation
+- Member 2: Setup and Usage Documentation
 
+## Main Branch - Maintained by Both Members
 
-\## Team Members
+The main branch contains the stable and completed project files.
 
-\- Member 1: Project Documentation
+## Feature Branches
+- feature/project-details
+- feature/setup-guide
 
-\- Member 2: Setup and Usage Documentation
-
-
-
-\## Main Branch
-
-<<<<<<< HEAD
-\## Main Branch - Maintained by Member 1
-=======
-\## Main Branch - Maintained by Member 2
-
-
-
-\## Feature Branches
-
-\- feature/project-details
-
-\- feature/setup-guide
->>>>>>> origin/feature/setup-guide
-
-
-
-\## Workflow
-
-1\. Pull the latest changes from main.
-
-2\. Create a separate feature branch.
-
-3\. Make the required changes.
-
-4\. Commit changes with meaningful messages.
-
-5\. Push the feature branch to GitHub.
-
-6\. Merge the feature branch into main.
-
-7\. Resolve merge conflicts when necessary.
-
-8\. Verify the final project.
-
-
-
-\## Commit Message Convention
-
-\- docs: documentation changes
-
-\- feat: new features
-
-\- fix: bug fixes
-
-\- refactor: code improvements
-
+## Workflow
+1. Create a separate feature branch for each task.
+2. Make meaningful commits.
+3. Push feature branches to GitHub.
+4. Merge completed features into main.
+5. Resolve merge conflicts before completing a merge.
