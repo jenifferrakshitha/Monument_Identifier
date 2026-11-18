@@ -1,5 +1,3 @@
-
-
 \# Git Branching Strategy
 
 
@@ -20,7 +18,7 @@ Monument Identifier
 
 \## Main Branch
 
-The main branch contains the stable version of the project.
+\## Main Branch - Maintained by Member 2
 
 
 
@@ -61,6 +59,4 @@ The main branch contains the stable version of the project.
 \- fix: bug fixes
 
 \- refactor: code improvements
-
-
 
