@@ -20,15 +20,7 @@ Monument Identifier
 
 \## Main Branch
 
-The main branch contains the stable version of the project.
-
-
-
-\## Feature Branches
-
-\- feature/project-details
-
-\- feature/setup-guide
+\## Main Branch - Maintained by Member 1
 
 
 
